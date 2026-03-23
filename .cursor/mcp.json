@@ -7,9 +7,9 @@
         "@aashari/mcp-server-atlassian-confluence"
       ],
       "env": {
-        "ATLASSIAN_SITE_NAME": "your-company",
-        "ATLASSIAN_USER_EMAIL": "your.email@company.com",
-        "ATLASSIAN_API_TOKEN": "your_api_token"
+        "ATLASSIAN_SITE_NAME": "aviasales.atlassian.net",
+        "ATLASSIAN_USER_EMAIL": "anna.krasilnikova@aviasales.ru",
+        "ATLASSIAN_API_TOKEN": "ATATT3xFfGF0VblS7D2EzimRipa0YvnMjsfziDv3i82geLIPk6kOch2XBU8fVLTL3qkUa-70IbEgH207Z02woilMEA-mwVQKS4qj3yr-Jx_mMlHh55gYLQEF6d5FBhs42c971pDCjZazbA5kb-Te8SgEnB2hlbQ1CdCJGNw_VJvaCDoeIJ97qdE=9C7147B1":
       }
     }
   }
